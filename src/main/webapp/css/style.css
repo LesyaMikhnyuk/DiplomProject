@@ -1,0 +1,27 @@
+textChange1{
+  type:text;
+}
+
+textChange2{
+  type:text;
+}
+
+textChange3{
+  type:text;
+}
+
+#cssTable td
+{
+  text-align:center;
+  vertical-align:middle;
+}
+
+#cssTable input
+{
+  text-align:center;
+  vertical-align:middle;
+}
+
+figcaption {
+  text-align: center;
+}
